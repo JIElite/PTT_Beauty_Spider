@@ -1,34 +1,31 @@
-# PTT ±íÌØ°æÅÀÏxˆDÆ¬ÏÂÝdÆ÷
-## Ç°ÑÔ
-ß@‚€ Program ÊÇ×ŒÎÒÓÃí¾šÁ•ÅÀÏxµÄ»ù±¾¸ÅÄî£¬´îÅä¶àˆÌÐÐ¾wµÄÊ¹ÓÃ <br>
-Ï£Íû´ó¼ÒÓÐ½¨×h»òÊÇÅúÔu¶¼¿ÉÒÔŒ‘ÐÅ½oÎÒ£¬Œ¦ÎÒíÕfß@ÊÇÓÐÐ§ÂÊµÄŒWÁ•™C•þ¡£
-µ«ÊÇ±ÈÝ^ƒAÏò×Ô¼º¸Ä code, ÖxÖx´ó¼ÒŒšÙFµÄÒâÒŠ! <br>
+# PTT è¡¨ç‰¹ç‰ˆçˆ¬èŸ²åœ–ç‰‡ä¸‹è¼‰å™¨
+## å‰è¨€
+é€™å€‹ Program æ˜¯è®“æˆ‘ç”¨ä¾†ç·´ç¿’çˆ¬èŸ²çš„åŸºæœ¬æ¦‚å¿µï¼Œæ­é…å¤šåŸ·è¡Œç·’çš„ä½¿ç”¨ <br>
+å¸Œæœ›å¤§å®¶æœ‰å»ºè­°æˆ–æ˜¯æ‰¹è©•éƒ½å¯ä»¥å¯«ä¿¡çµ¦æˆ‘ï¼Œå°æˆ‘ä¾†èªªé€™æ˜¯æœ‰æ•ˆçŽ‡çš„å­¸ç¿’æ©Ÿæœƒã€‚
+ä½†æ˜¯æ¯”è¼ƒå‚¾å‘è‡ªå·±æ”¹ code, è¬è¬å¤§å®¶å¯¶è²´çš„æ„è¦‹! <br>
 
-## Ê¹ÓÃ·½·¨
+## ä½¿ç”¨æ–¹æ³•
 ```
-$ python beauty_spider2.py ÅÀÏxÆðÊ¼µÄí“Ãæ ÅÀŽ×í“ ÍÆÎÄ¶àÉÙÒÔÉÏ 
+$ python beauty_spider2.py çˆ¬èŸ²èµ·å§‹çš„é é¢ çˆ¬å¹¾é  æŽ¨æ–‡å¤šå°‘ä»¥ä¸Š 
 ```
-Èç¹ûÒªÄ×îÐÂí“Ãæé_Ê¼ÅÀ µÚÒ»‚€…¢”µÕˆÌî -1 <br>
-Ä¿Ç°¸÷·N bug Ð§ÄÜÎ´ƒž»¯¡£<br>
-ÅÀÏxÊÇÀûÓÃ PTT ¾Wí“°æ£¬ËùÒÔí“ÃæÒÔ¾Wí“°æžé˜ËœÊ¡£<br>
-Õˆ…¢¿¼£º <br>
+å¦‚æžœè¦å¾žæœ€æ–°é é¢é–‹å§‹çˆ¬ ç¬¬ä¸€å€‹åƒæ•¸è«‹å¡« -1 <br>
+ç›®å‰å„ç¨® bug æ•ˆèƒ½æœªå„ªåŒ–ã€‚<br>
+çˆ¬èŸ²æ˜¯åˆ©ç”¨ PTT ç¶²é ç‰ˆï¼Œæ‰€ä»¥é é¢ä»¥ç¶²é ç‰ˆç‚ºæ¨™æº–ã€‚<br>
+è«‹åƒè€ƒï¼š <br>
 ```
 https://www.ptt.cc/bbs/Beauty/index.html
 ```
 
-# ˆDÆ¬ÕfÃ÷
-## ÏÂÝdÖÐ
+# åœ–ç‰‡èªªæ˜Ž
+## ä¸‹è¼‰ä¸­
 ![alt tag](http://i.imgur.com/RoFrilx.jpg)<br>
-## ÏÂÝdÍê³É
+## ä¸‹è¼‰å®Œæˆ
 ![alt tag](http://i.imgur.com/tLwYbj2.png) <br>
-## ÙYÁÏŠAƒÈ²¿ î›r
+## è³‡æ–™å¤¾å…§éƒ¨ç‹€æ³
 ![alt tag](http://i.imgur.com/hu8MyIf.png) <br>
-## ˆÌÐÐ¹ Àý 
-Ê¹ÓÃ:
+## åŸ·è¡Œç¯„ä¾‹ 
+ä½¿ç”¨:
 ``` 
 $ python beauty_spider2.py -1 100 100
 ```
 ![alt tag](http://i.imgur.com/xlkhW8B.png)
-
-# License
-MIT license
