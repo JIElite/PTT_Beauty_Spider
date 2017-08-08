@@ -7,7 +7,7 @@ This project is currently deprecated. Because of personal reason I may not maint
 - TBD (welcome to share other version for me)
 
 
-## Issue & TODOs
+## Issue & TODOs
 - Using `requests` & `BeautifulSoup` to refactor Web Crawler.
 - Using `Threading` or other asynchronized method to refactor download process, because file downloading is IO-bound process NOT CPU-bound process.
 
