@@ -1,4 +1,17 @@
-# PTT 表特版爬蟲圖片下載器
+# PTT 表特版爬蟲圖片下載器[Deprecated]
+
+## Project Status
+This project is currently deprecated. Because of personal reason I may not maintain this project. If you're interesting in this kind of project, you can visit some fork version:
+
+- [twtrubiks/PTT_Beauty_Spider](https://github.com/twtrubiks/PTT_Beauty_Spider)
+- TBD (welcome to share other version for me)
+
+
+## Issue & TODOs
+- Using `requests` & `BeautifulSoup` to refactor Web Crawler.
+- Using `Threading` or other asynchronized method to refactor download process, because file downloading is IO-bound process NOT CPU-bound process.
+
+
 ## 前言
 這個 Program 是讓我用來練習爬蟲的基本概念，搭配多執行緒的使用 <br>
 希望大家有建議或是批評都可以寫信給我，對我來說這是有效率的學習機會。
